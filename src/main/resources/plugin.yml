@@ -1,0 +1,5 @@
+name: ConfigurateLib112
+version: '${version}'
+main: io.github.adainish.configuratelib.ConfigurateLib
+authors: [ Winglet ]
+description: Creates a dev lib for hocon configuration on spigot 1.12.2
